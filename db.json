@@ -1,0 +1,81 @@
+{
+  "alugueis": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "data_de_nascimento": "1990-05-15",
+      "sexo": "Masculino",
+      "imagem": "https://i.pinimg.com/736x/73/ef/b5/73efb56045699aad5cc81f96a2408eaa.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Santos",
+      "data_de_nascimento": "1985-10-25",
+      "sexo": "Feminino",
+      "imagem": "https://i.pinimg.com/550x/eb/d3/55/ebd355210f1dfc0b90172058668153d7.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Oliveira",
+      "data_de_nascimento": "1978-03-12",
+      "sexo": "Masculino",
+      "imagem": "https://i.pinimg.com/236x/66/52/2a/66522a024a0b91bfc9cad90e443c7814.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Souza",
+      "data_de_nascimento": "1995-07-08",
+      "sexo": "Feminino",
+      "imagem": "https://i.pinimg.com/736x/19/8d/fc/198dfcd88763dae3732c95e6f7cb9a3a.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Pedro Almeida",
+      "data_de_nascimento": "1982-11-30",
+      "sexo": "Masculino",
+      "imagem": "https://i.pinimg.com/736x/22/a0/1e/22a01ee5bc12543dd79624680a922c2e.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "José Silva",
+      "data_de_nascimento": "1965-08-29",
+      "sexo": "Masculino",
+      "imagem": "https://i.pinimg.com/474x/3e/e1/21/3ee121f85b639e1bd55b5b0254efa6a3.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Maria Costa",
+      "data_de_nascimento": "1972-11-12",
+      "sexo": "Feminino",
+      "imagem": "https://img.freepik.com/fotos-gratis/ponte-de-madeira-para-a-praia-durante-o-por-do-sol_181624-18247.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Pedro Santos",
+      "data_de_nascimento": "1958-06-24",
+      "sexo": "Masculino",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-APjoNn1Pt9oGtO-mICzjBxOhllf_kR7u426s28nixA&s"
+    },
+    {
+      "id": 9,
+      "nome": "Maria Costa",
+      "data_de_nascimento": "1972-11-12",
+      "sexo": "Feminino",
+      "imagem": "https://i.pinimg.com/236x/79/1e/2a/791e2a7074f38fc8157fcdf7e763e34a.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "José Silva",
+      "data_de_nascimento": "1965-08-29",
+      "sexo": "Masculino",
+      "imagem": "https://i.pinimg.com/236x/ff/7a/30/ff7a3001b15b7b1be6bbf182a3b58b0e.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Ana Oliveira",
+      "data_de_nascimento": "1987-03-18",
+      "sexo": "Feminino",
+      "imagem": "https://i.pinimg.com/236x/5d/64/8a/5d648a48b06958f4f4b0107eaa4a9ab2.jpg"
+    }
+  ]
+}
