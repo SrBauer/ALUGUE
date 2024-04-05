@@ -7,7 +7,7 @@ function listAluguel() {
             const listaElement = document.getElementById('alugueis-lista');
 
             alugueis.forEach(aluguel => {
-                const item = document.createElement('div'); // Alterado de <li> para <div>
+                const item = document.createElement('div'); 
                 item.classList.add('aluguel-item'); // Adiciona uma classe para estilização
                 const imagem = document.createElement('img');
                 imagem.src = aluguel.imagem;

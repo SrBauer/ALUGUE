@@ -2,31 +2,31 @@
   "alugueis": [
     {
       "id": 1,
-      "nome": "João Silva",
+      "nome": "Edson Adriano",
       "data_de_nascimento": "1990-05-15",
       "sexo": "Masculino",
-      "imagem": "https://i.pinimg.com/736x/73/ef/b5/73efb56045699aad5cc81f96a2408eaa.jpg"
+      "imagem": "https://dicas.boisaude.com.br/wp-content/uploads/2021/12/rac%CC%A7as-de-boi-.jpg"
     },
     {
       "id": 2,
-      "nome": "Maria Santos",
+      "nome": "Cairo Augusto",
       "data_de_nascimento": "1985-10-25",
       "sexo": "Feminino",
-      "imagem": "https://i.pinimg.com/550x/eb/d3/55/ebd355210f1dfc0b90172058668153d7.jpg"
+      "imagem": "https://www.comprerural.com/wp-content/uploads/2022/07/touros-tabapua-em-destaque-2.jpg"
     },
     {
       "id": 3,
-      "nome": "Carlos Oliveira",
+      "nome": "Djonathan Mariano",
       "data_de_nascimento": "1978-03-12",
       "sexo": "Masculino",
-      "imagem": "https://i.pinimg.com/236x/66/52/2a/66522a024a0b91bfc9cad90e443c7814.jpg"
+      "imagem": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11553/gado-tabapua-2-cursos-cpt.jpg"
     },
     {
       "id": 4,
-      "nome": "Ana Souza",
+      "nome": "Jonathan Bauer",
       "data_de_nascimento": "1995-07-08",
-      "sexo": "Feminino",
-      "imagem": "https://i.pinimg.com/736x/19/8d/fc/198dfcd88763dae3732c95e6f7cb9a3a.jpg"
+      "sexo": "Masculino",
+      "imagem": "https://www.comprerural.com/wp-content/uploads/2023/12/18-07-05_PAN-Lisboa-pede-fim-das-touradas-no-Campo-Pequeno.jpg"
     },
     {
       "id": 5,
